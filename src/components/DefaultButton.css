@@ -1,0 +1,18 @@
+.default-button  {
+  background: linear-gradient(to right, #27337b, #102098); 
+  border: none;
+  font-size: 11px;
+  padding: 15px 25px;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #fff; /
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  width: 48%; 
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3); 
+}
+
+.default-button :hover {
+  background: linear-gradient(to right, #102098, #27337b); 
+  box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.4); 
+}
