@@ -65,7 +65,7 @@
 
 
 .leaderboard-content {
-  max-height: calc(80vh - 160px); 
+  max-height: calc(65vh - 170px); 
   overflow-y: auto; 
   padding-right: 10px; 
   word-wrap: break-word;
